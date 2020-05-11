@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Engineer community</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="inicio">Inicio</string>
+    <string name="becas">Becas</string>
+    <string name="cursos">Cursos</string>
+</resources>

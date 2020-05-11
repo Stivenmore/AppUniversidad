@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68753087437",
+    "firebase_url": "https://community-c8e36.firebaseio.com",
+    "project_id": "community-c8e36",
+    "storage_bucket": "community-c8e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68753087437:android:fc080c879c2a4864c94284",
+        "android_client_info": {
+          "package_name": "com.anshdeep.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68753087437-uf428n1rtngv74e2ddfv5kksq5sslfaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anshdeep.kotlinmessenger",
+            "certificate_hash": "f4a4fdc27127dc62276400aa35a51032d1ac17d9"
+          }
+        },
+        {
+          "client_id": "68753087437-sd9ddgb4ji5om5f90at3ntu2b8ptev39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UYzXxL4Q89kv1kaNMIQA3ppHaCSYX3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68753087437-sd9ddgb4ji5om5f90at3ntu2b8ptev39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
